@@ -1,7 +1,7 @@
 ### Hi  👋
 
 - My name is Robert C. Popescu
-- 🌱 I’m currently learning coding. I am on a journey to master the Java language and all its frameworks
+- 🌱 I’m currently learning coding. I am on a journey to master HTML, CSS, Javascript and React.js
 - 👯 I’m looking to collaborate on interesting projects, which try to change the world in a better place
 - 📫 How to reach me: robert.popescu9612@gmail.com
 
