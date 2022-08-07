@@ -2,8 +2,8 @@
 
 - My name is Robert C. Popescu
 - This is my portfolio website: https://rob3rt96.github.io/
-- 🌱 I’m currently learning coding. I am on a journey to master HTML, CSS, Javascript and React.js
-- 👯 I’m looking to collaborate on interesting projects, which try to change the world in a better place
+- 🌱 I’m currently learning to code. I am on a journey to master HTML, CSS, Javascript and React.js
+- 👯 I’m looking to collaborate on interesting projects, which try to change the world into a better place
 - 📫 How to reach me: robert.popescu9612@gmail.com
 
 
