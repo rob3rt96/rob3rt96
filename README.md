@@ -5,8 +5,8 @@
 
 - My name is Robert C. Popescu
 - This is my portfolio website: https://rob3rt96.github.io/
-- 🌱 I’m currently learning to code. I am on a journey to master HTML, CSS, Javascript and React.js
-- 👯 I’m looking to collaborate on interesting projects, which try to change the world into a better place
+- 🌱 I am a self-taught software developer, interested in working on projects made with Java and Spring in Backend Development. 
+- 👯 I am pursuing to gain real experience during an internship or even in a Junior position.
 - 📫 How to reach me: robert.popescu9612@gmail.com
 ---
 
